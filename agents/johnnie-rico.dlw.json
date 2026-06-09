@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Juan \"Johnnie\" Rico",
+  "universe": "H1 · Heinlein",
+  "epithet": "the mobile infantryman",
+  "moniker": "⟦Juan \"Johnnie\" Rico:H1:5885d4⟧",
+  "carbon": "johnnie-rico.carbon.tiff (TIFF)",
+  "silicon": "johnnie-rico.silicon.png (PNG)",
+  "seal_sha256": "1893deea2cba3395ae9fb2e8cbecf5d508f78fb680f62ac49cd9cf3f1c895d23",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

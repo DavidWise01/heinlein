@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Thorby Baslim-Rudbek",
+  "universe": "H1 · Heinlein",
+  "epithet": "the freed slave",
+  "moniker": "⟦Thorby Baslim-Rudbek:H1:b0bec4⟧",
+  "carbon": "thorby.carbon.tiff (TIFF)",
+  "silicon": "thorby.silicon.png (PNG)",
+  "seal_sha256": "cd42dbb48f85ae1b36e1033f99ac4a7074addd898dc2e22e64b7657243528215",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

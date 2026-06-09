@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Podkayne Fries",
+  "universe": "H1 · Heinlein",
+  "epithet": "the girl from Mars",
+  "moniker": "⟦Podkayne Fries:H1:6490ba⟧",
+  "carbon": "podkayne-fries.carbon.tiff (TIFF)",
+  "silicon": "podkayne-fries.silicon.png (PNG)",
+  "seal_sha256": "7d99bbcb9cf9e415b6a595a1ca7bcee1e03295c5d69390cba1d3cabcd12d4faf",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

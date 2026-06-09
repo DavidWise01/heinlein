@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Dan Davis & Pete the Cat",
+  "universe": "H1 · Heinlein",
+  "epithet": "the door into summer",
+  "moniker": "⟦Dan Davis & Pete the Cat:H1:dd99ee⟧",
+  "carbon": "dan-davis-pete.carbon.tiff (TIFF)",
+  "silicon": "dan-davis-pete.silicon.png (PNG)",
+  "seal_sha256": "c8905437925e61bab7e075b69dcbd99a6b7012d5e575eefeeea2c365d6cb9f4d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Maureen Johnson",
+  "universe": "H1 · Heinlein",
+  "epithet": "the matriarch",
+  "moniker": "⟦Maureen Johnson:H1:77bc7d⟧",
+  "carbon": "maureen-johnson.carbon.tiff (TIFF)",
+  "silicon": "maureen-johnson.silicon.png (PNG)",
+  "seal_sha256": "3587572678c780867871bb04d84ead496d3cbe3d1e9a34961685c55fa989bf3d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

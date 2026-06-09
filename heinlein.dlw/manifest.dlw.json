@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "HEINLEIN",
+  "universe": "H1 · Heinlein",
+  "moniker": "⟦HEINLEIN:H1:b510cf⟧",
+  "carbon": "heinlein.carbon.tiff (TIFF)",
+  "silicon": "heinlein.silicon.png (PNG)",
+  "seal_sha256": "f85a642e757b05dc4313f904bff4f8d814ec42ca28cefdd2328f6bc7420918bd",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

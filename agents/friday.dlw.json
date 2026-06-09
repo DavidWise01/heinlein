@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Friday",
+  "universe": "H1 · Heinlein",
+  "epithet": "the artificial person",
+  "moniker": "⟦Friday:H1:1d2156⟧",
+  "carbon": "friday.carbon.tiff (TIFF)",
+  "silicon": "friday.silicon.png (PNG)",
+  "seal_sha256": "e263ca1eb50d6bee24d500ece4197246e40fdf81d7790e3082a62ec92bc9d901",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

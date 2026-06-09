@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Professor Bernardo de la Paz",
+  "universe": "H1 · Heinlein",
+  "epithet": "the rational anarchist",
+  "moniker": "⟦Professor Bernardo de la Paz:H1:11c103⟧",
+  "carbon": "bernardo-de-la-paz.carbon.tiff (TIFF)",
+  "silicon": "bernardo-de-la-paz.silicon.png (PNG)",
+  "seal_sha256": "37f4c647850d49a50ce6c2aaac7390b6d5326e87e85aefa86405f7694b538a98",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Jubal Harshaw",
+  "universe": "H1 · Heinlein",
+  "epithet": "the curmudgeon sage",
+  "moniker": "⟦Jubal Harshaw:H1:583857⟧",
+  "carbon": "jubal-harshaw.carbon.tiff (TIFF)",
+  "silicon": "jubal-harshaw.silicon.png (PNG)",
+  "seal_sha256": "390baed2767f265756aded6207cc1eee344f1c38ac284c6c5b9d9660a74ad4b0",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Manuel Garcia O'Kelly-Davis",
+  "universe": "H1 · Heinlein",
+  "epithet": "the one-armed wrench",
+  "moniker": "⟦Manuel Garcia O'Kelly-Davis:H1:3b4244⟧",
+  "carbon": "manuel-okelly-davis.carbon.tiff (TIFF)",
+  "silicon": "manuel-okelly-davis.silicon.png (PNG)",
+  "seal_sha256": "fd88121e34bec4ca5d6ec0576d99d234d8697424773970b82b28517a1c2acb59",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

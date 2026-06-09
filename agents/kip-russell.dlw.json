@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Kip Russell",
+  "universe": "H1 · Heinlein",
+  "epithet": "the boy who won a spacesuit",
+  "moniker": "⟦Kip Russell:H1:67f423⟧",
+  "carbon": "kip-russell.carbon.tiff (TIFF)",
+  "silicon": "kip-russell.silicon.png (PNG)",
+  "seal_sha256": "9f2f167182a1a663617f552435e44325b202a929bf45f90eea6e92f3e12bc415",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

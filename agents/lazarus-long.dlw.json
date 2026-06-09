@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Lazarus Long",
+  "universe": "H1 · Heinlein",
+  "epithet": "the oldest man",
+  "moniker": "⟦Lazarus Long:H1:af76b0⟧",
+  "carbon": "lazarus-long.carbon.tiff (TIFF)",
+  "silicon": "lazarus-long.silicon.png (PNG)",
+  "seal_sha256": "4ea27af550531fd539d0b41baff424cea59ae8fbb6f18f84ebec64febc97c1bb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}

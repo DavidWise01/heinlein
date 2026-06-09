@@ -1,0 +1,13 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Oscar Gordon",
+  "universe": "H1 · Heinlein",
+  "epithet": "the hero",
+  "moniker": "⟦Oscar Gordon:H1:9b9cc3⟧",
+  "carbon": "oscar-gordon.carbon.tiff (TIFF)",
+  "silicon": "oscar-gordon.silicon.png (PNG)",
+  "seal_sha256": "ddfed21ccdb27b781185dcc8e609a7586151d890806707309d87fe884266669d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0"
+}
