@@ -4,6 +4,6 @@ slug  : heinlein
 seal  : f85a642e757b05dc4313f904bff4f8d814ec42ca28cefdd2328f6bc7420918bd
 prev  : c45e429f42d1088e6d9bd66b05a1fba8fec29c474725684cd5b622e683d29580
 link  : 11b9fdc3ac6ca6b55394184441a68b335668988d69f7568371590fe5cbfd4e28
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
